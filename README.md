@@ -4,8 +4,6 @@
 
 ## Setup
 
-Install the package.
-
 ```
 $ npm install --save blankgif
 ```

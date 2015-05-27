@@ -11,8 +11,8 @@ function sendBlankGif(req, res) {
   return res.send(buff);
 }
 
-function middleware(req, res, next) {
-  return function() {
+function middleware() {
+  return function(req, res, next) {
     res.sendBlankGif = function() { return sendBlankGif(req, res) };
     next();
   }

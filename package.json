@@ -1,0 +1,28 @@
+{
+  "name": "blankgif",
+  "version": "0.1.0",
+  "description": "For serving a 1x1px transparent gif image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xpepermint/blankgif.git"
+  },
+  "keywords": [
+    "empty",
+    "blank",
+    "gif",
+    "png",
+    "serve",
+    "track",
+    "tracking"
+  ],
+  "author": "Xpepermint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpepermint/blankgif/issues"
+  },
+  "homepage": "https://github.com/xpepermint/blankgif"
+}
